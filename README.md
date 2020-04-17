@@ -12,3 +12,10 @@ Install docker and docker-compose
 
 - https://docs.docker.com/get-docker/
 - https://docs.docker.com/compose/install/
+
+Usage
+=====
+
+```
+docker-compose up
+```

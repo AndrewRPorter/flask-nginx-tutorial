@@ -1,7 +1,7 @@
 Connecting Flask and Gunicorn to Nginx with docker-compose
 ==========================================================
 
-Quick tutorial on how to server requests to nginx with Flask through the use of Nginx.
+Quick tutorial on how to serve requests to Flask through Nginx.
 
 ![overview](graphic.png)
 
